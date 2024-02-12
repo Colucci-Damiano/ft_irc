@@ -10,7 +10,7 @@ Internet Relay Chat (IRC) is a text-based communication protocol that allows use
 
 ## Features
 
-- IRC server implementated according to [this](https://modern.ircdocs.horse/) client protocol standards.
+- IRC server implemented according to [this](https://modern.ircdocs.horse/) client protocol standards.
 
 ## Installation Instructions
 

@@ -26,7 +26,7 @@ Internet Relay Chat (IRC) is a text-based communication protocol that allows use
 
 ## Contributors
 
-- The project was carried out by the following:
+- The project was carried out by the following:  
 	-[alegreci](github.com/alegrecii)  
 	-[mdi-paol](github.com/mdipaol)  
   	-[dcolucci](github.com/Colucci-Damiano)  
